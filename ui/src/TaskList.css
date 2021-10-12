@@ -1,0 +1,25 @@
+.fab-button {
+    background-color: #316fea !important;
+    position: absolute !important;
+    bottom: 30px;
+    right: 40px;
+}
+
+.item-list-card {
+    padding: 5px;
+    margin: 1px;
+}
+
+.item-list-card:hover {
+    background-color: #f3f3f3;
+    cursor: text;
+}
+
+.youre-done {
+    text-align: center;
+}
+
+.delete-button {
+    padding: 10px !important;
+    float: right;
+}
